@@ -1,0 +1,5 @@
+﻿  love.c
+D:\C语言学习\love\love\love.c(5,15): error C3873: “0x3001”: 不允许将此字符作为标识符的第一个字符
+D:\C语言学习\love\love\love.c(5,15): error C3872: “0x3001”: 此字符不允许在标识符中使用
+D:\C语言学习\love\love\love.c(6,2): error C2065: “、、”: 未声明的标识符
+D:\C语言学习\love\love\love.c(6,2): error C2146: 语法错误: 缺少“;”(在标识符“ch”的前面)
